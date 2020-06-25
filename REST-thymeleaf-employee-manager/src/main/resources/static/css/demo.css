@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding:0;
+}
+
+.serverTime {
+	color: green;
+	font-style: italic;
+	text-align: center;
+	margin-top: 20px;
+}
